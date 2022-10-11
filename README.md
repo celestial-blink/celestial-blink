@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Takeshi
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on projects javascript
+- 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me ...
 
 <!---
