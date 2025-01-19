@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Takeshi
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning QWIK and rust
+- 🌱 I’m currently learning rust lang
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me as T-Code
 
